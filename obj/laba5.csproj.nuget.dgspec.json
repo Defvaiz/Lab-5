@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Максим\\source\\repos\\Lab 5\\laba5.csproj": {}
+    "C:\\Users\\Максим\\source\\repos\\Lab 5\\Lab-5\\laba5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Максим\\source\\repos\\Lab 5\\laba5.csproj": {
+    "C:\\Users\\Максим\\source\\repos\\Lab 5\\Lab-5\\laba5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Максим\\source\\repos\\Lab 5\\laba5.csproj",
+        "projectUniqueName": "C:\\Users\\Максим\\source\\repos\\Lab 5\\Lab-5\\laba5.csproj",
         "projectName": "laba5",
-        "projectPath": "C:\\Users\\Максим\\source\\repos\\Lab 5\\laba5.csproj",
+        "projectPath": "C:\\Users\\Максим\\source\\repos\\Lab 5\\Lab-5\\laba5.csproj",
         "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Максим\\source\\repos\\Lab 5\\obj\\",
+        "outputPath": "C:\\Users\\Максим\\source\\repos\\Lab 5\\Lab-5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
